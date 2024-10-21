@@ -1,26 +1,8 @@
 ﻿**Reference:**idS5
 **Citation:**Capriotti, Matthew R., and Linda J. Pfiffner. “Patterns and Predictors of Service Utilization Among Youth With ADHD-Predominantly Inattentive Presentation.” Journal of Attention Disorders, vol. 23, no. 11, 2019, pp. 1251–61, https://doi.org 10.1177/1087054716677817.
 
-![](Aspose.Words.c595f535-257e-40ce-8fa3-2702b2fbaed8.001.png)
-
-![](Aspose.Words.c595f535-257e-40ce-8fa3-2702b2fbaed8.002.png)
-
 
 **Patterns and Predictors of Service Utilization Among Youth With ADHD-Predominantly Inattentive Presentation**
-
-# **Matthew R. Capriotti<sup>1</sup> and Linda J. Pfiffner<sup>1</sup>**
-Journal of Attention Disorders 2019, Vol. 23(11) 1251–1261
-
-© The Author(s) 2017 Article reuse guidelines:
-
-[sagepub.com/journals-permissions](https://us.sagepub.com/en-us/journals-permissions) DOI: 10.1177/1087054716677817
-
-[journals.sagepub.com/home/jad](https://journals.sagepub.com/home/jad)
-
-![](Aspose.Words.c595f535-257e-40ce-8fa3-2702b2fbaed8.003.png)
-
-
-
 
 ### **Abstract**
 **Objective:** This study examined rates and predictors of educational and mental health service utilization among youth with ADHD-predominantly inattentive presentation (ADHD-I). **Method:** Participants were 199 children with ADHD-I in Grades 2 to 5. Parents reported past-year child service utilization. Parents and teachers rated child ADHD and oppositional defiant disorder (ODD) symptom severity and functional impairment. Children completed an academic achievement test. **Results:** All children had impairment at school and home. Most received some sort of school service (79%), but only 23% received community-based services. ADHD symptom severity was unrelated to service utilization. However, higher parent-rated functional impairment predicted community service utilization. Academic underachievement and higher teacher-rated functional impairment predicted school service utilization. **Conclusion:** Many youth with ADHD-I experience impairment across domains without receiving adequate services for these problems. Functional impairment appears to be a stronger predictor of service utilization than ADHD symptom severity, demonstrating the importance of impairment in understanding service needs for ADHD-I. *(J. of Att. Dis. 2019; 23(11) 1251-1261)*
@@ -92,72 +74,6 @@ These data were collected within the pretreatment assess- ment stage of a two-si
 Participants had a primary diagnosis of ADHD-I according to *Diagnostic and Statistical Manual of Mental Disorders* (4th ed., text rev.; *DSM-IV-TR*; APA, 2000; ascer- tained by the Kiddie Schedule for Affective Disorders and Schizophrenia [K-SADS; Kaufman et al., 1997]) criteria, were 7 to 11 years of age, and were in school grades 2 to 5 (inclusive) in regular education classrooms. Other inclusion criteria were as follows: (a) ³6 *Diagnostic and Statistical Manual of Mental Disorders* (4th ed.; *DSM-IV*; APA, 1994) ADHD inattention symptoms rated as “often” or “very often” on the Child Symptom Inventory (CSI) by parents
 
 
-
-
-![ref1]![](Aspose.Words.c595f535-257e-40ce-8fa3-2702b2fbaed8.010.png)![ref2]
-
-
-**Table 1.** Demographic and Clinical Background for Participants.
-
-![ref4]
-
-Variable	*M* (*SD*)/%
-
-![ref5]Gender (male)	58
-
-Age at time of study (years)	8.6 (1.1)
-|||
-| :- | -: |
-|||
-|||
-|||
-|||
-|<p></p><p></p>||
-|||
-|||
-|||
-|||
-|<p></p><p></p>||
-|||
-|||
-
-
-![](Aspose.Words.c595f535-257e-40ce-8fa3-2702b2fbaed8.013.png)Age of ADHD onset (years)	5.1 (1.4) Race/ethnicity
-
-
-
-
-
-F
-
-
-
-
-
-C
-
-
-
-CSI symptom severity
-
-ADHD	25.3 (6.9)
-
-ODD	6.7 (4.4)
-
-Overall child functional impairment (IRS)
-
-Parent rated	3.56 (1.10)
-
-Teacher rated	3.59 (1.12)
-
-Academic achievement (WJ-III)
-
-Reading composite	100.0 (10.4)
-
-Mathematics composite	96.1 (11.0)
-
-![ref5]
-
 *Note*. K-SADS = Kiddie Schedule for Affective Disorders and Schizo- phrenia; ODD = oppositional defiant disorder; CSI = Child Symptom Inventory; IRS = Impairment Rating Scale; WJ-III = Woodcock–Johnson Tests of Achievement–III.
 
 or teachers, with at least two symptoms endorsed by each informant; (b) £5 ADHD hyperactivity/impulsivity symp- toms rated as “often” or “very often” by parents or teachers on the CSI; and (c) psychosocial impairment as evidenced by ratings of ³3 in one or more Impairment Rating Scale (IRS) domains by both the child’s parent and teacher; and
@@ -176,10 +92,6 @@ or teachers, with at least two symptoms endorsed by each informant; (b) £5 ADHD
 
 To evaluate service utilization, we created two compos- ite categories to characterize whether or not a child had received any community-based mental health service or any school-based service in the past year. Community-based
 
-
-
-
-![ref1]![ref3]![](Aspose.Words.c595f535-257e-40ce-8fa3-2702b2fbaed8.014.png)
 
 
 mental health services included four designated SCAPI categories: psychiatric medication, individual therapy/ counseling (exclusive of school counseling), family ther- apy, and parent training/groups/classes/support groups. School services were defined as receiving any school service in designated categories (i.e., school counseling, academic help in a regular classroom [e.g., classroom accommodations, push-in instruction], resource/special education classes, in-school tutoring, occupational/physical therapy, speech/language therapy, and/or having an active Individualized Education Plan (IEP) or 504 Plan).
@@ -202,63 +114,6 @@ Very little missing data were noted overall (0.4% of all vari- ables), so missin
 Table 2 shows past-year service utilization rates for specific services among study participants. A minority of children (23%) had received at least one community-based mental health service in the community within the past year. Few children (8.2%) received an ADHD medication in the past year, with only 4.5% currently on medication. Few youth received community-based psychosocial inven- tions (i.e., 4.2%-12.9%, across specific psychosocial ser- vices). A majority of youth (78.9%) received some form of school-based service, but only 13.5% had an IEP in place. Relatively, common school services included special help in regular classroom (including classroom accommoda- tions, help from a paraprofessional, push-in instruction, and other in-class supports), pull-out special education or resource classes, and academic tutoring. Few children received speech and language or occupational/physical therapy services at school.
 
 To test Hypothesis 1, we first examined rates of child functional impairment in various domains. Academic impairment was most commonly reported by parents (93%, *n* = 185), followed by negative impact on family function- ing (73%; *n* = 145) and social impairment (41%; *n* = 82). Teachers rated 91% (*n* = 180) of students as academically impaired and 49% (*n* = 98) as socially impaired. Table 3 shows rates of service utilization as a function of different parent- and teacher-reported child impairments. The major- ity of children (85%) with teacher-identified academic and/ or social impairments were receiving some special school- based service. In contrast, minorities of children with parent- reported impairments were receiving community-based
-
-
-
-
-![ref1]![](Aspose.Words.c595f535-257e-40ce-8fa3-2702b2fbaed8.015.png)![ref2]
-
-
-![ref5]**Table 2.**  Past-Year Service Utilization Rates.
-
-
-
-% receiving
-
-**Table 3.** Past-Year Service Utilization as a Function of Domain- Specific Child Impairment.
-
-![ref4]
-
-![ref5]Service
-
-service (*N* = 199)
-
-Impairment
-
-domain	Medication
-
-Any community clinical service
-
-Any school service
-
-Community-based mental health services	23	 	
-
-|(any)||Parent rated||||
-| :- | :- | :- | :- | :- | :- |
-|Counseling (outside of school)|12|Academic|9|24|81|
-|Medication|8|Social|11|35|76|
-|Parent training/support|8|Family|9|28|82|
-|Family therapy|4|Teacher rated||||
-|School services (any)|79|Academic|8|24|85|
-|Accommodations in regular classroom|36|Social|13|25|85|
-
-![ref5]
-
-
-
-
-
-
-
-
-|||
-| :- | :-: |
-|||
-|||
-|||
-|||
-|||
-
 ![](Aspose.Words.c595f535-257e-40ce-8fa3-2702b2fbaed8.016.png)*Note.* Counseling includes group or individual psychotherapy or psychological counseling where the child was the identified client/ patient. IEP = Individualized Education Plan; OT = occupational therapy; PT = physical therapy.
 
 mental health services (35% of children with social impair-
