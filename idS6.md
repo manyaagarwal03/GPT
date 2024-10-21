@@ -1,7 +1,6 @@
 **Reference:**idS6
 **Citation:**de la Peña, Ike C., et al. “Attention-Deficit/Hyperactivity Disorder Predominantly Inattentive Subtype/Presentation: Research Progress and Translational Studies.” Brain Sciences, vol. 10, no. 5, 2020, pp. 292-, https://doi.org/10.3390/brainsci10050292.
 
-﻿![](Aspose.Words.d8af7f54-3629-4f03-974a-39cd981ded68.001.png)![](Aspose.Words.d8af7f54-3629-4f03-974a-39cd981ded68.002.png)[***brain sciences***](http://www.mdpi.com/journal/brainsci)
 
 <a name="_bookmark0"></a><a name="_bookmark1"></a>*Review*
 
